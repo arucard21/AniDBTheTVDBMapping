@@ -55,4 +55,7 @@
 	<anime anidbid="10432" tvdbid="278817" defaulttvdbseason="1">
 		<name>Blade &amp; Soul</name>
 	</anime>
+	<anime anidbid="125" tvdbid="72973" defaulttvdbseason="1">
+		<name>Groove Adventure Rave</name>
+	</anime>
 </anime-list>
