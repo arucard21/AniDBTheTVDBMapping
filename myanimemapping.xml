@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="anime.xsl"?>
+<anime-list>
+	<anime anidbid="701" tvdbid="72445" defaulttvdbseason="1">
+		<name>Bakuretsu Hunter</name>
+	</anime>
+	<anime anidbid="939" tvdbid="72445" defaulttvdbseason="2">
+		<name>Ganso Bakuretsu Hunter</name>
+	</anime>
+	<anime anidbid="8673" tvdbid="262093" defaulttvdbseason="1">
+		<name>Code: Breaker</name>
+	</anime>
+	<anime anidbid="81" tvdbid="80407" defaulttvdbseason="1">
+		<name>DNA2: Dokoka de Nakushita Aitsu no Aitsu</name>
+	</anime>
+	<anime anidbid="1611" tvdbid="80407" defaulttvdbseason="0">
+		<name>DNA2: Dokoka de Nakushita Aitsu no Aitsu (1995)</name>
+	</anime>
+	<anime anidbid="2879" tvdbid="250182" defaulttvdbseason="1">
+		<name>Brave Story</name>
+	</anime>
+	<anime anidbid="4388" tvdbid="78962" defaulttvdbseason="0">
+		<name>Gekijouban Shakugan no Shana</name>
+		<mapping-list>
+			<mapping anidbseason="1" tvdbseason="0">;1-4;</mapping>
+		</mapping-list>
+	</anime>
+	<anime anidbid="2326" tvdbid="79132" defaulttvdbseason="1">
+		<name>Grenadier: Hohoemi no Senshi</name>
+	</anime>
+	<anime anidbid="54" tvdbid="80654" defaulttvdbseason="1">
+		<name>Hanaukyou Maid Tai</name>
+	</anime>
+	<anime anidbid="2046" tvdbid="80654" defaulttvdbseason="0">
+		<name>Hanaukyou Maid Tai (2001)</name>
+	</anime>
+	<anime anidbid="4851" tvdbid="81797" defaulttvdbseason="1">
+		<name>One Piece: Episode of Arabasta - Sabaku no Oujo to Kaizoku-tachi</name>
+	</anime>
+	<anime anidbid="850" tvdbid="79471" defaulttvdbseason="1">
+		<name>Salaryman Kintarou</name>
+	</anime>
+	<anime anidbid="8009" tvdbid="247231" defaulttvdbseason="0">
+		<name>Toriko 3D: Kaimaku! Gourmet Adventure!!</name>
+		<mapping-list>
+			<mapping anidbseason="1" tvdbseason="0">;1-2;</mapping>
+		</mapping-list>
+	</anime>
+	<anime anidbid="7227" tvdbid="247231" defaulttvdbseason="0">
+		<name>Toriko</name>
+		<mapping-list>
+			<mapping anidbseason="1" tvdbseason="0">;1-1;</mapping>
+		</mapping-list>
+	</anime>
+	<anime anidbid="10432" tvdbid="278817" defaulttvdbseason="1">
+		<name>Blade &amp; Soul</name>
+	</anime>
+</anime-list>
